@@ -8,19 +8,15 @@
 ```
   git clone https://github.com/farukalampro/discord-chat-bot-using-gpt-3.5-turbo.git
 ```
-2. Install all the dependencies
-. Using npm
+2. Install all the dependencies using npm
 ```  
 npm install
 ```
-yarn
-Create a new file called .env and copy the format from .env.example (or you can just rename .env.example)
+3. Create a new file called .env and copy the format from .env.example (or you can just rename .env.example)
+4. Update .env with your own credentials.
+5. Start your bot using npm
 
-Update .env with your own credentials.
-
-Start your bot
-
-Using npm
+```  
 npm run start
-Using yarn
-yarn start
+```
+
