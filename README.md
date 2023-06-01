@@ -1,15 +1,18 @@
-GPT 3.5 Turbo Chat Bot
-This is a simple Discord chat bot built using discord.js and the gpt-3.5-turbo model from Open AI. This is the same model used for the popular chatbot Chat GPT.
+# Discord-chat-bot-using-gpt-3.5-turbo
+#### This Discord chat bot was created using discord.js and powered by the gpt-3.5-turbo model developed by Open AI. It employs the very same model that drives the renowned chatbot known as Chat GPT.
 
-A full video tutorial for this chat bot can be found here
+## How to setup
 
-How to setup
-Clone the repository to the current directory
-git clone https://github.com/notunderctrl/gpt-3.5-chat-bot.git .
-Install all the dependencies
-Using npm
+1. Clone the repository to the current directory
+
+```
+  git clone https://github.com/farukalampro/discord-chat-bot-using-gpt-3.5-turbo.git
+```
+2. Install all the dependencies
+. Using npm
+```  
 npm install
-Using yarn
+```
 yarn
 Create a new file called .env and copy the format from .env.example (or you can just rename .env.example)
 
